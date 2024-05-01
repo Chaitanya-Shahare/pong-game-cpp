@@ -1,0 +1,18 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/*.o": true,
+    "**/*.exe": true
+  },
+  "makefile.launchConfigurations": [
+    {
+      "cwd": "/Users/chaitanyashahare/Documents/CPP/pong-game",
+      "binaryPath": "/Users/chaitanyashahare/Documents/CPP/pong-game/game",
+      "binaryArgs": []
+    }
+  ]
+}
